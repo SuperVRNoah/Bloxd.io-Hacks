@@ -8,7 +8,7 @@
 // @match        *://*.bloxdk12.com/*
 // @match        *://*.doodlecube.io/*
 // @match        *://*.eviltower.io/*
-// @match        *://staging.bloxd.io/*
+// @match        *:file:///home/chronos/u-f6d92df58af16b6c5c915e464f8bbdd65abda93b/MyFiles/Downloads/bloxd%20(1).html*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @require      https://raw.githubusercontent.com/Itzzyaboyterr0code/client/main/requires.js
 // @grant        unsafeWindow
